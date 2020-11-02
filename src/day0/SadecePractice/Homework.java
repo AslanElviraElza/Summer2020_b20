@@ -143,6 +143,6 @@ public class Homework {
         for(i=0; i<size; i++){
             System.out.print(a[i]+" ");
         }
-
+       // System.out.println("Yav he he");
     }
 }
